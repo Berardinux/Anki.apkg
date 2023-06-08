@@ -1,0 +1,35 @@
+# Using .APKG Files with Anki
+
+## Introduction
+APKG files are flashcard decks used with Anki, a powerful open-source flashcard program. This README provides instructions on how to import and use .APKG files in Anki for effective studying.
+
+## Getting Started
+1. Download and install Anki from the official website: https://apps.ankiweb.net/
+
+## Importing .APKG Files
+1. Download the desired .APKG file from this repository.
+2. Launch Anki on your device.
+3. In the main Anki window, click on "File" and select "Import".
+4. Locate the downloaded .APKG file on your computer and select it.
+5. Choose the deck you want to import the flashcards into or create a new deck.
+6. Click "Import" to import the flashcards into Anki.
+
+## Reviewing Flashcards
+1. In the main Anki window, select the deck that contains the imported flashcards.
+2. Click on the deck to view the flashcards within.
+3. To review the flashcards, click on the "Study Now" button.
+4. Anki's algorithm will present flashcards based on your learning progress and schedule.
+5. Review each flashcard and rate your confidence in remembering the content.
+6. Anki will adapt the schedule based on your performance and prioritize difficult cards.
+
+## Contributing
+1. If you find errors or have suggestions for improvements, please create an issue or pull request on this repository.
+2. Feel free to contribute new flashcards or updates to existing ones.
+3. Ensure that your contributions adhere to the guidelines provided in the repository.
+
+## Additional Resources
+- Anki Documentation: https://docs.ankiweb.net/
+- Anki Support: https://anki.tenderapp.com/
+
+Happy studying!
+
